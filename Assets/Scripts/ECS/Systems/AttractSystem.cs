@@ -15,9 +15,9 @@ namespace MyDOTSPhysics.ECS.Systems{
 
             Translation ACenter = GetComponent<Translation>(A);
             
-            foreach ((RefRW<PhysicsVelocity> PVel, RefRO<Translation> Trans) in SystemAPI.Query<RefRW<PhysicsVelocity>, RefRO<Translation>>()){
+            foreach ((RefRW<PhysicsVelocity> PVel, RefRO<Translation> Trans, RefRO<Ball> Ball) in SystemAPI.Query<RefRW<PhysicsVelocity>, RefRO<Translation>, RefRO<Ball>>()){
                 float3 Dir = math.normalize(ACenter.Value - Trans.ValueRO.Value);
-                PVel.ValueRW.Linear = Dir * DeltaTime * 10;
+                PVel.ValueRW.Linear = Dir * DeltaTime * Ball.ValueRO.Speed;
             }
         }
     }

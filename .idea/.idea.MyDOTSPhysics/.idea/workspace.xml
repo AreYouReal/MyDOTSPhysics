@@ -9,7 +9,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities/EntityCommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities/Iterators/BufferLookup.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities/Stubs/Unity/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities/SystemState.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities/World.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/LocalToWorld.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DOTSPG/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/LocalToWorldTransform.cs" root0="FORCE_HIGHLIGHTING" />
@@ -17,10 +19,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ECS/Authoring/AttractorAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ECS/Authoring/MyPhysicsBallAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ECS/Authoring/MyWorldAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities.PerformanceTests/ForEachISystemPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Entities.PerformanceTests/IdiomaticForEachISystemPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Scenes/WeakAssetReferenceLoadingSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/LocalToWorld.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/LocalToWorldTransform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/TransformAspect.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.0-exp.12/Unity.Transforms/UniformScaleTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.0-exp.12/Unity.Physics.Hybrid/Components/PhysicsBodyAuthoring.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.0-exp.12/Unity.Physics/Dynamics/Simulation/CollisionEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.0-exp.12/Unity.Physics/Dynamics/Simulation/ICollisionEventsJob.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.0-exp.12/Unity.Physics/ECS/Base/Components/PhysicsComponents.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
